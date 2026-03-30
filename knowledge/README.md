@@ -2,6 +2,11 @@
 
 The content in here will be used to create new blog articles and other longer-format content, but will also act as knowledge-dense articles.
 
+# What for
+These will be used:
+- as blog articles
+- for prompting and contextualizing AI
+
 # Future Knowledge
 - Winning the infinite game
 - Subjective profitability: how being profit is relative to your opinion.
