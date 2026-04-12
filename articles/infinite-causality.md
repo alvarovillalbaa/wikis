@@ -1,5 +1,8 @@
 # The problem of the problems
 
+Álvaro Villalba Pérez
+Nov 30, 2023
+
 Bear in mind that this comes after 11 months of problem research. In 20 years, I will have done 20 years and 11 months of problem research on this topic. Because you cannot stop researching the problems in the world of entrepreneurship. So it starts.
 
 There was a time when business opportunities overcame problem-solving. But it was a time of unlimited resources, short lifespan and little industrialisation. Since Y Combinator came into existence, problem-solving has become the first and only task for startups to achieve Product-Market Fit. After obsession with it(whether I’ve been successful or not), we can extract some conclusions.

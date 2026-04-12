@@ -1,4 +1,7 @@
 # AI Systems, Not Agents
+    
+Álvaro Villalba Pérez
+Dec 06, 2024
 
 When we first started researching AI architectures, we called them Multi-LLM Architectures. But as we kept going, it became clear that AI systems are more complex. They aren't just agents. They are something broader and more nuanced. To explain that better, let’s start with the concept of an agent.
 
@@ -74,5 +77,13 @@ Sometimes, we need to split the context into parts to manage it better. This is 
 Finally, sometimes we have to go against the foundational model. This might mean using Literal Reasoning or Subsequent Reasoning to fill in gaps. If the foundational model doesn’t give a perfect answer, subsequent reasoning often doesn’t help much, but literal chains of thought might.
 
 Another technique we use is Weight Cleanse during Continuous Training, using Reinforcement Learning from Human Feedback (RHLF). This helps us adjust model weights in an ongoing way, keeping accuracy high and resource use low.
+
+# Wrapping Up
+AI systems are much more than just a group of agents. They’re a complex network of neural networks (somehow ironic). Architectures, workflows, governance, and intelligence—all working together. Data flows through it all, shifting and changing to meet user needs in real-time. Autonomy, instant processing, and asynchronous capabilities are all key aspects, each playing a role depending on the situation. By understanding these building blocks, we can build AI systems that are smarter, faster, and more efficient than ever before.
+
+# Future topics I’ll explore
+- **Data Condensation for Production-Level Production Readiness**
+
+- **Current and future impact of AI in the labor market**
 
 Context is The Way to Learn
