@@ -1,0 +1,2 @@
+- change agents
+- AI-native employees for AI adoption diffusion
