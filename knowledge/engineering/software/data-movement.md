@@ -1,0 +1,2 @@
+- resting data has zero value
+- when data is moved, it provides value. With 'move' we mean the flow of created -> updated -> read

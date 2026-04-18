@@ -1,0 +1,3 @@
+- monopolization, when does it happen?
+- how can we achieve monopolization? Different ways
+- 1 objective: become a monopoly or become nothing
