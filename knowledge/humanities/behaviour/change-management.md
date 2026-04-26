@@ -1,2 +1,2 @@
-- change agents
-- AI-native employees for AI adoption diffusion
+- change agents are leading the different teams in an org. Every week, they discover 2-3 new AI-native tools, use them, and propose 1 to their team. The ones more adopted by a team, get elevated to the entire department. The ones elevated to the entire department, get elevated to the entire org (if possible)
+- AI-native employees introduced in an org deliver AI adoption diffusion -- meaning other people adapt AI due to envy, fear or a little bit of both
