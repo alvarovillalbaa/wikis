@@ -1,5 +1,8 @@
-When innovation and technology development go this fast, it is almost impossible to get a solution right. The market you are in obsoletes that solution in a matter of months. And your customers can only talk about a) solutions they already know b) how they would use advanced technology. Depending on who your customer is, this could be dreading!
+[Source: Alvaro’s Brain]
 
-Let me explain it by going through our customer discovery phase. Take into account that we’re a vertical B2B SaaS. Bad things happened:
+At peak innovation velocity, solutions expire in months. Customer feedback is doubly limited: buyers can only describe known solutions or speculate on technology they’ve never operated.
 
-- Everyone had the same problem — not enough qualified candidates. They look actively for solutions to this, but the existing solutions focus on sourcing.
+**Vertical B2B discovery failure modes:**
+- Market symptom convergence (not enough qualified candidates) → all existing solutions target sourcing, missing root cause
+- Customer feedback loops degrade when the technology changes faster than the product cycle
+- Discovery phase reveals surface consensus masking divergent underlying needs

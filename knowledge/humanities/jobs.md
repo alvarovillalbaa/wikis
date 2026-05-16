@@ -1,3 +1,5 @@
+[Source: Alvaro’s Brain]
+
 It should be like a game:
 - you want to be #1
 - you should have fun

@@ -1,5 +1,5 @@
-Many talk about having a compound startup. But I firmly believe it’s a half truth. Here, I explain why it’s necessary on business nowadays to go from $0 to $1B.
+[Source: Alvaro’s Brain]
 
-This theory relates back to Paul Graham’s paper on “Do things that don’t scale”. It’s probably been the most repeated sentence in the entrepreneurship ecosystem for the past 10 years. Experts refer to it as another counterintuitive action, but it’s much more than that.
+“Compound startup” is a half-truth. The full truth: *all* efforts compound — not selectively. PG’s “do things that don’t scale” is the mechanism description, not the exception.
 
-Efforts compound. Planets align on compounding. Some things don’t have short-term results. Most things don’t make any sense.
+Compounding is a structural property of effort: no short-term signal, alignment emerges late, surface incoherence is intrinsic. The $0→$1B path requires tolerating this opacity as a design constraint, not a bug.

@@ -1,5 +1,8 @@
 # .delay() vs .apply_async() for Celery
 
+[Source: Alvaro’s Brain]
+
+
 In Celery, `.delay()` and `.apply_async()` both enqueue a task for asynchronous execution, but they offer different levels of control:
 
 ---

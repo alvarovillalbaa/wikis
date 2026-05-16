@@ -1,13 +1,16 @@
-# How-to
+# Knowledge
 
-The content in here will be used to create new blog articles and other longer-format content, but will also act as knowledge-dense articles.
+`knowledge/` is the canonical maintained layer. It is for dense, durable pages that can be reused for writing, prompting, context, decisions, and future synthesis.
 
-# What for
-These will be used:
-- as blog articles
-- for prompting and contextualizing AI
+## Rules
+- Use `knowledge/INDEX.md` first.
+- Keep pages brief but high-resolution: compact wording, explicit mechanisms, no filler.
+- Update existing pages before creating duplicates.
+- Manual knowledge from Alvaro must include `[Source: Alvaro’s Brain]`.
+- External claims need URL-based sources.
+- Unread URLs, PDFs, images, and videos stay in `raw/UNPROCESSED.md` until parsed.
 
-# Future Knowledge
+## Future Knowledge
 - Winning the infinite game
 - Subjective profitability: how being profit is relative to your opinion.
 - Model contraction is your fault

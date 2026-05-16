@@ -3,6 +3,8 @@ tags:
   - knowledge
 field: problem-solving
 ---
+[Source: Alvaro’s Brain]
+
 Every problem has infinite causes, each statistically weighted (10% trip, 90% too many apples, etc.). This chain extends in both directions: causes have causes, consequences have consequences. Called **infinite causality** — others call it statistics.
 
 **Link length matters**: the more direct the cause-problem-consequence connection, the stronger the insight and the higher the problem-solving performance. Long chains dilute signal.

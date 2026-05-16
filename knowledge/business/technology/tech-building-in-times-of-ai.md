@@ -1,17 +1,15 @@
-Open-source guardrails and low-inference cloud (Groq) provides IaaS independence to safety, avoiding incumbents lock-in. Cloud and Intelligence providers should be independent.
+[Source: Alvaro’s Brain]
 
-Open-source AI/ML/code is advancing faster than ever due to x3 productivity in developers. White-collar workers are the one being replaced until AI robotics come after blue-collar.
+**Infrastructure independence:** Open-source guardrails + low-inference compute (Groq-class) = IaaS stack decoupled from intelligence incumbents. Cloud provider and intelligence provider separation is architecturally required.
 
-Energy consumption is the strongest constraint right now, being intelligence progress quite advanced in closed models. Open-source should catch up.
+**Labor displacement sequence:** White-collar precedes blue-collar (AI robotics gate). Developer 3x productivity multiplier is the open-source velocity driver.
 
-Investment is dry at all levels. The macroeconomic conditions are such mixture of after-.com bubble and after-household crisis. We’ll see more acceleration. Wealth gap has widen and money will be deployed if the engines don’t stall. There’s somehow still a risk of panic selling unless AI’s value creation is enough for capture.
+**Binding constraint:** Energy, not intelligence. Closed models advanced; open-source convergence imminent.
 
-AI adoption is currently on the horizontal use cases across businesses’ boards. Last year was playtesting. There is already a productivity gap. Developers have adopted it first, with maturing sales and market AI markets for SMBs and lower. Enterprise sales won’t change too much due to the intrinsic personal value. HR seems the same. Recruitment comes next. But it’s being adopted by (a) innovators (b) low-sized market.
+**Capital conditions:** Macro resembles post-.com + post-household crisis overlay. Capital deployment contingent on AI value capture outpacing panic dynamics; wealth gap widening regardless.
 
-There’s no one building hardcore AI products. That means AI by design. They normally start with one use case. UI has radically change. UI has reached maturity to an obsoleting level.
+**Adoption curve:** Horizontal enterprise AI is current phase (playtesting complete). Developer market matured first; sales/HR/SMB trailing. Enterprise sales resilience is relationship-structural, not technology-resistant. Adoption concentrated in innovators and small-market early movers.
 
-Data is still the MOAT of many recruitment agencies.
+**Product gap:** No incumbent building AI-by-design (vs AI-bolted-on). Single-use-case entry points dominate. UI has reached obsolescence inflection — dynamically valuable interfaces aren’t staffable at legacy developer productivity levels.
 
-Software developers aren’t able to catch up with interfaces that are dynamically valuable.
-
-My cross-field knowledge might give me a unique perspective about these.
+**Data moat:** Recruitment agencies still hold it; leverage persists through data lock-in.

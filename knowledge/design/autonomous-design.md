@@ -1,5 +1,8 @@
 # Initial key points
 
+[Source: Alvaro’s Brain]
+
+
 - Designing for the invisible
 - Explanaitions & interpretability — everywhere
 - Fast Inference is contrary to trust, can be taken into advantage

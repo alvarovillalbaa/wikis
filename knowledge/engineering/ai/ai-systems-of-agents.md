@@ -3,6 +3,8 @@ tags:
   - knowledge
 field: ai-architecture
 ---
+[Source: Alvaro’s Brain]
+
 AI systems are broader than agents. An agent = LLMs with varying autonomy levels. An AI system = agents + instant processing + async processing + data flows across all of them.
 
 **Three processing modes:**

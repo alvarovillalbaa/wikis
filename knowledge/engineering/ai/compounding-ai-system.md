@@ -1,4 +1,7 @@
 # Objects vs Memory vs Data vs Context
+
+[Source: Alvaro’s Brain]
+
 - Memory
     - Conversations and Traces
     - Items (+ Episodes + Triples)
@@ -26,5 +29,5 @@
     - Insights, Analysis, etc.
 
 # Infrastructure
-- Generation (as AI agent tool calls, or regular functions) 
+- Generation (as AI agent tool calls, or regular functions)
 - CO (Continuous Optimization) Pipelines (Cleaning/Updating)

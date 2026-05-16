@@ -1,11 +1,39 @@
-- HR teams are the most hated across an org
-- Human-centered processes (high-stakes like firing, PIP, difficult judgement because non-deterministic non-testable non-reproducible) vs Finance vs Coding (deterministic, testable, reproducible)
-- Continuous Data Collection is super manual, distributed and important (e.g. candidate applications, cross-employee feedback, statisfaction surveys)
-- Multi-Player (high levels of hierarchy inside HR teams so multi-player AI is really necessary, high complexity of HITL human-in-the-loop with multiple stakeholders)
-- There’s too much data, but not too much information (information/data ratio is low, for example the employment contracts could be 30+ pages long but are only relevant 1 paragraph of information (reference to Law, payroll, job role, etc.)).
-- Some focus on things that could be automated deterministically and/or are low-value admin. For example, payroll automation already existed. Payroll budgeting, analysis, forecasting, and callibration are a process worth exploring with AI — but not payroll automation. Others are things like ‘parsing resumes’ — which has being done for the past 15 years and is low value add. Compare that to ‘decide who’s best for a given role amongst thousands of candidates who applied and who didn’t apply and automate the workflow up to scheduling first interview with personalized outreach messaging and post-interview transcript processing/analysis. Other low-value add is an AI that assists to enter data for pre-onboarding (e.g. identity documentation, bank account, etc.) but the thing is that they’ll have to do it manually either way so an AI UX is just more confusing and adds no value.
-- Data ownership is extremely important, because HR tech has many competitors everywhere. You could build +1000 integrations. But you’d end up not owning any data. A few years back, Linkedin stopped providing API access to ATS platforms and the entire recruiting market has being drowning ever since (also happened from Linkedin to the Sales Tech market these past 2 years). We have a mindset of: a) capturing x10 more data than other platforms do b) own workflows end-to-end to own those data c) standard generalized integrations (e.g. Slack, Google Drive, etc.) but maximum 1 custom integration per customer and ONLY if that integration could be used for other customers (benefits 2+ customers at least)
-- Typical AI Agents advice: AI system continuously learns, memory is really important, orchestration layer is where value accrues, scaffolding of the system of AI agents matters a lot
-- Winning Use Cases:
-    - Reporting (currently done via forms for data collection then XLSX then Slides Decks, all manual)
-    - Employee Support (there are many repeated questions that employees ask HR all the time, it’s like Customer Support AI Agents but for the other ‘client’ — the internal client, which is the employee)
+**Process characteristics:**
+- HR: non-deterministic, non-testable, non-reproducible → higher-stakes AI judgment than Finance/Engineering
+- Information/data ratio is low: 30+ page employment contract → ~1 paragraph of actionable content (law refs, payroll, role)
+- Continuous data collection is manual and distributed (candidate applications, cross-employee feedback, satisfaction surveys)
+- Multi-stakeholder hierarchy → multi-player AI required; HITL complexity exceeds most enterprise domains
+
+**Data ownership thesis:**
+- Capture 10x vs competitors; own end-to-end workflows to control data provenance
+- Max 1 custom integration/customer, only if reusable across 2+ customers
+- LinkedIn API shutdown → ATS market collapse; same pattern → Sales Tech 2024. Integration dependency = existential risk
+
+**Anti-patterns (low-value AI targets):**
+- Payroll execution (already automated)
+- Resume parsing (15yr-old commodity)
+- Pre-onboarding data entry (no net automation; adds UX friction)
+
+**High-value AI targets:**
+- Candidate selection across known + unknown applicant pool → first-interview scheduling + personalized outreach + post-interview transcript synthesis
+- Reporting: forms → XLSX → slides (fully manual today); high automation ceiling
+- Employee support: repeated policy/process questions (internal customer support equivalent)
+- Payroll budgeting, analysis, forecasting, calibration
+
+**AI system architecture:**
+- Orchestration layer is the moat; scaffolding is the compounding asset
+- Continuous learning; memory compounds over time
+- Compliance processes (payroll deadlines, mandatory training): deterministic automation
+- Adaptive processes (interview synthesis, onboarding personalization, performance signals): probabilistic AI
+
+**People systems as codebases:**
+- Processes currently live in oral tradition + half-maintained wikis; scattered across Docs/Confluence/Notion/HRIS
+- Three enabling convergences: LLMs handle unstructured HR inputs (feedback, Slack, evidence); internal users provide tight feedback loops; real bottleneck was connective tissue (handoffs, undocumented knowledge transfers)
+- Version control + rollback + audit trail on process changes: makes bias visible and reviewable, doesn’t resolve it
+- Essential friction (managerial judgment conversations) vs accidental friction (3hrs compiling docs) — only eliminate accidental
+- People partners → direct process builders; engineering ticket dependency eliminated
+
+## Sources
+- [Source: Alvaro’s Brain]
+- https://jonathannen.com/people-systems-are-the-next-codebase/
+- https://arxiv.org/abs/2311.06383 — RJDB: 50k+ (JD, matched/unmatched resume) triples; tasks: JD matching, explanation, skill extraction, resume editing; skill-occupation graph distillation → student models match/beat GPT-4
