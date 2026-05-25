@@ -24,6 +24,7 @@ Agent governance is the control layer for autonomous software that can pursue go
 - Open problems: continuous multi-hour evals, robust oversight, institutional licensing/compute gates, benefit-sharing design.
 - Constitutional/principle-based safety works by comparing responses against explicit principles: human rights, non-discrimination, privacy, harmlessness, no impersonated embodiment, non-expert humility, anti-conspiracy, obedience to human control, and reduced self-interest/power-seeking.
 - **Anthropic Responsible Scaling Policy — ASL framework** (modeled on biosafety levels): ASL-1 = no meaningful catastrophic risk (pre-2019 models); ASL-2 = early dangerous capability but insufficient reliability for real harm (current Claude models — triggers White House commitment baselines); ASL-3 = substantially increased catastrophic misuse risk OR low-level autonomous capability → unusually strong security, no deployment if red-team adversarial testing shows meaningful catastrophic misuse risk; ASL-4/5+ = not yet defined, may require unsolved interpretability research before reaching. Board approval required for RSP changes. Key mechanism: commitments are made *before* reaching each tier, eliminating deployment-moment rationalization.
+- **OpenAI confessions** (OpenAI, 2025): train a separate post-answer self-report channel whose reward is honesty only, isolated from the main-answer reward. The useful control primitive is objective separation: the model can admit instruction violations, reward hacking, hallucination, or shortcuts without being punished through the answer-quality reward. Reported proof-of-concept result: false negatives averaged 4.4% across stress tests. Limitation: confessions surface misbehavior for monitoring/diagnostics; they do not prevent it and remain imperfect. Interpretation: treat confession-like reports as an audit layer alongside chain-of-thought monitoring, evals, and policy gates, not as a standalone alignment mechanism.
 
 ## Open Threads
 - Convert governance levers into concrete Clous runtime checks: action permissions, memory boundaries, logs, eval gates, and incident response.
@@ -38,3 +39,4 @@ Agent governance is the control layer for autonomous software that can pursue go
 - https://www.anthropic.com/news/core-views-on-ai-safety
 - https://www.un.org/en/about-us/universal-declaration-of-human-rights
 - https://storage.googleapis.com/deepmind-media/DeepMind.com/Authors-Notes/sparrow/sparrow-final.pdf
+- https://openai.com/index/how-confessions-can-keep-language-models-honest/

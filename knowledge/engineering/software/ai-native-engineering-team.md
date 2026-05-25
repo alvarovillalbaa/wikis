@@ -9,6 +9,7 @@ AI-native engineering delegates mechanical SDLC work to coding agents while engi
 - Build: agents can draft feature implementations, fix build errors, search broad code areas, write tests, generate boilerplate, and produce diff-ready changesets.
 - Test: agents can generate first-pass test cases from specs and code paths; engineers validate coverage against behavior, edge cases, and user experience.
 - Review: agent review should emphasize race conditions, data integrity, security, performance, migration risk, and architectural consistency; human review remains the quality gate.
+- Automated plan review should be structured as a review pipeline, not direct execution: create a restore point, load repo context, run strategy/design/engineering/DX lenses, classify auto-decisions as mechanical vs. taste vs. user-challenge, keep an audit trail, and surface taste/user-challenge decisions at a final approval gate. Interpretation: the durable pattern is staged review with explicit decision provenance; the gstack-specific prompts and telemetry/setup mechanics are implementation details, not portable policy.
 - Documentation: agents can summarize files, draft runbooks, and update routine docs; humans own docs taxonomy, canonicality, and meaning.
 - Deploy/maintain: agents can correlate logs, commits, deploy history, and traces for incident triage; engineers confirm root cause, approve remediation, and protect sensitive systems.
 - Adoption pattern: start with narrow, well-specified workflows, connect agents to MCP/log/deploy systems with scoped permissions, test simulated scenarios, collect feedback, then expand responsibility.
@@ -19,3 +20,4 @@ AI-native engineering delegates mechanical SDLC work to coding agents while engi
 
 ## Sources
 - sources/engineering/building-an-ai-native-engineering-team.pdf
+- https://github.com/garrytan/gstack/tree/main/autoplan — autoplan automated plan-review skill

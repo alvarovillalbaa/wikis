@@ -28,6 +28,7 @@ This is the navigation layer for canonical knowledge. `knowledge/` is the mainta
 
 ## Engineering / Software And Research
 - [Celery](engineering/software/celery.md) - `.delay()` vs `.apply_async()`.
+- [PostgreSQL scaling](engineering/software/postgresql-scaling.md) - read-heavy single-primary PostgreSQL scaling, replica fanout, rate limits, schema discipline, and write-offload strategy.
 - [Software engineering learning map](engineering/software/software-engineering-learning-map.md) - software/AI course and paper resource map.
 - [AI-native engineering team](engineering/software/ai-native-engineering-team.md) - coding-agent SDLC delegation and engineering ownership boundaries.
 - [Autonomous research agents](engineering/research/autonomous-research-agents.md) - research-agent architecture, hybrid retrieval (GBrain KG+vector, QMD), self-improving loops (AutoResearch, Autocontext, Hermes), PRAXIS procedural learning.
