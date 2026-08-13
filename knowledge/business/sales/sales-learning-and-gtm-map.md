@@ -11,6 +11,7 @@ Sales learning should combine founder-led sales, first sales hires, enterprise s
 - Competitor conversations should surface buyer criteria and create positioning clarity, not become feature-comparison theater.
 - A pitch needs layered validation: problem, consequence, and buyer belief.
 - AI-assisted sales sources should be treated as tactics until verified against real pipeline outcomes.
+- Career-arbitrage note (Jack Raines, 29% Loaded, 2026-06-22): among status-chasing coastal paths (IB/PE, PM, strategy), quota-carrying AE at a fast-growing company is under-chosen because "sales" reads low-status; sociable grinders can out-earn the prestige track. Treat as a hiring/GTM labor observation, not a playbook.
 
 ## Sources
 - raw/_history/sales.md
@@ -23,3 +24,4 @@ Sales learning should combine founder-led sales, first sales hires, enterprise s
 - https://www.youtube.com/watch?v=Tav9JkaGdFU
 - https://www.youtube.com/watch?v=gT4fJm-KPT8
 - https://ramp.com/vendors
+- https://www.youngmoney.co/p/29-loaded

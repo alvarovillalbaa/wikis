@@ -9,6 +9,10 @@ This page preserves the durable curriculum shape from raw software-engineering n
 - Paper literacy anchors the AI/ML path: McCulloch/Pitts, Turing, Rosenblatt, Newell/Shaw/Simon, Pearl, HTM, deep RL, Transformers, GANs, ImageNet, scaling laws.
 - Course coverage should be sequenced: CS50/fundamentals -> systems/backend -> AI/ML/deep learning -> high-dimensional analysis/research -> cloud/platform.
 - The raw source mixes stable course URLs, scholar profiles, NotebookLM/Perplexity artifacts, and social links; only stable course/repo/paper sources should graduate into durable learning plans without further capture.
+- Kubernetes should be learned as stacked feedback controllers (spec/status, level-triggered reconcile), not as YAML trivia. See knowledge/engineering/software/kubernetes-control-loops.md.
+- PyTorch compact path: Raschka "PyTorch in One Hour: From Tensors to Training Neural Networks on Multiple GPUs" (tutorial body not extracted this session; title/curriculum claim only). Companion notes exist for memory, speed, mixed precision, grad accumulation.
+- Pedagogical train-your-own-LM: Language Model Builder (native macOS/MLX) walks tokenizer → pretrain → SFT → DPO locally.
+- 30papers.com is Ilya Sutskever's reading list for John Carmack (CS231n through Kolmogorov / Legg); a canon map, not a substitute for reading the papers.
 
 ## Sources
 - raw/_history/Private & Shared 5/Software Engineering 218a1ee8bd06805dada2ce46dcdf6342.md
@@ -16,6 +20,7 @@ This page preserves the durable curriculum shape from raw software-engineering n
 - https://openai.com/index/scaling-postgresql/
 - https://github.com/karpathy/LLM101n
 - https://aman.ai/primers/ai/top-30-papers/
+- https://30papers.com/
 - https://web.stanford.edu/class/cs234/CS234Spr2024/index.html
 - https://pll.harvard.edu/course/data-science-machine-learning
 - https://www.coursera.org/specializations/deep-learning
@@ -23,3 +28,7 @@ This page preserves the durable curriculum shape from raw software-engineering n
 - https://pll.harvard.edu/course/cs50-introduction-computer-science
 - https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python
 - https://resources.github.com/learn/pathways/
+- https://sebastianraschka.com/teaching/pytorch-1h/
+- https://languagemodelbuilder.com/
+- https://planetscale.com/blog/the-feedback-loops-behind-kubernetes
+- https://fanout.sh/
