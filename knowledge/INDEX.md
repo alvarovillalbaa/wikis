@@ -4,18 +4,18 @@ This is the navigation layer for canonical knowledge. `knowledge/` is the mainta
 
 ## Engineering / AI
 - [AI systems of agents](engineering/ai/ai-systems-of-agents.md) - agent/system processing modes, cognitive workload, workflow layers.
-- [LLM internals](engineering/ai/llm-internals.md) - attention, scaling, inference, KV paging, speculative decode, TP collectives, encrypted CoT extraction.
-- [Frontier model training](engineering/ai/frontier-model-training.md) - end-to-end model build sequence, data, training, post-training, local pedagogical pipelines, compact distillation.
+- [LLM internals](engineering/ai/llm-internals.md) - attention, scaling, inference, RAG vs fine-tuning selection, KV paging, speculative decode, TP collectives, encrypted CoT extraction.
+- [Frontier model training](engineering/ai/frontier-model-training.md) - end-to-end model build sequence, data, training, post-training, compute economics, local pedagogical pipelines, compact distillation.
 - [Pretraining run operations](engineering/ai/pretraining-run-operations.md) - curriculum, packing, telemetry, gates, incidents, artifacts.
-- [Efficient LLM architectures](engineering/ai/efficient-llm-architectures.md) - subquadratic attention, Ring Attention, quantization, MoE, LoRA, speculative decode.
-- [Context and prompt engineering](engineering/ai/context-and-prompt-engineering.md) - prompting families, output-contract practice, 6 context types, retrieval strategies, context assembly operations, context rot benchmarks.
+- [Efficient LLM architectures](engineering/ai/efficient-llm-architectures.md) - subquadratic attention, Ring Attention, quantization, MoE, LoRA, speculative decode, workload-specific infrastructure efficiency.
+- [Context and prompt engineering](engineering/ai/context-and-prompt-engineering.md) - prompting families, output-contract practice, 6 context types, retrieval strategies, context assembly operations, RAG/fine-tuning ownership, context rot benchmarks.
 - [Agent systems and protocols](engineering/ai/agent-systems-and-protocols.md) - A2A, MCP, Agents SDK, research-agent architecture, 4-pillar failure framework, harness engineering, production evals/ABM, Muse Glimmer, Agentic MapReduce, Manus, Foundation Agents, Paperclip, Slate thread weaving.
 - [Liquid information technology](engineering/ai/liquid-information-technology.md) - routing and translation capabilities stub.
 - [100x users](engineering/software/100x-users.md) - software for 100 agents per user thesis.
 - [Data movement](engineering/software/data-movement.md) - data value creation through movement (create → update → read).
 - [AI governance and safety](engineering/ai/ai-governance-and-safety.md) - agent governance, risk categories, controls, Anthropic RSP ASL framework, constitutional safety principles.
 - [Chain-of-thought faithfulness](engineering/ai/chain-of-thought-faithfulness.md) - measuring faithfulness in chain-of-thought reasoning.
-- [AI engineering learning map](engineering/ai/ai-engineering-learning-map.md) - source map for AI/ML learning resources.
+- [AI engineering learning map](engineering/ai/ai-engineering-learning-map.md) - source map for AI/ML learning resources and verified AI infrastructure references.
 - [Building AI agents for HR](engineering/ai/building-ai-agents-for-hr.md) - HR-specific agent product direction.
 - [Compounding AI system](engineering/ai/compounding-ai-system.md) - objects, memory, data, context, post-building eval flywheel.
 - [Nature of AI](engineering/ai/nature-of-ai.md) - concise AI philosophy stub.

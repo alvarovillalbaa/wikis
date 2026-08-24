@@ -19,7 +19,9 @@ LLM performance is the interaction of representation, scale, memory movement, de
 - TP decode collectives: long-context small-batch tensor-parallel inference puts small AllReduce on the token critical path. Barrier-free push protocols (LL packed flag+data, sentinel, LL128 atomic) approach ~1.4µs SoL on GB200; ~1µs barriers can be ~40% of a 5µs AllReduce.
 - Normalization/activation: RMSNorm removes mean-centering overhead; SwiGLU/GeLU improve smooth nonlinear capacity versus ReLU.
 - Fine-tuning: LoRA freezes the base and learns low-rank deltas; QLoRA adds 4-bit base quantization for memory-efficient adapter training.
-- Retrieval: RAG primarily mitigates missing/fresh knowledge and hallucination risk; it does not solve context design or ranking alone. First-pass lexical ranking is still BM25 in most hybrid stacks.
+- Retrieval: RAG primarily mitigates missing/fresh knowledge, traceability, and hallucination risk by grounding generation in retrieved evidence; it does not solve context design, ranking, latency, or source-quality problems alone. First-pass lexical ranking is still BM25 in most hybrid stacks.
+- RAG and fine-tuning are orthogonal adaptation levers: use RAG when the application needs dynamic external knowledge or auditable sources; use fine-tuning when the goal is model behavior, style, domain terminology, or stable task specialization. Hybrid designs fit systems that need both fresh evidence and domain behavior.
+- Model selection should start from task shape and data availability. LLMs are stronger for zero/few-shot, out-of-distribution, open-ended generation, real-world noisy requests, and knowledge-intensive tasks; smaller fine-tuned models remain attractive for rich-label traditional NLU, strict latency/cost targets, regression-like outputs, and task distributions far from language-model objectives.
 - Sparse capacity: MoE increases parameter capacity while activating only a subset of experts per token.
 - Sampling: temperature, top-k, and top-p are inference-time entropy controls; they do not create knowledge. Guided decoding masks logits with a grammar FSM (xgrammar) so only legal tokens remain.
 - Evaluation: exact match, edit distance, n-gram overlap, semantic similarity, and LLM judges measure different failure surfaces. LLM judges carry verbosity and position bias.
@@ -46,3 +48,5 @@ LLM performance is the interaction of representation, scale, memory movement, de
 - https://arxiv.org/abs/2608.09867
 - https://chimchim89.github.io/BM25/
 - https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model
+- https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7/
+- https://arxiv.org/abs/2304.13712

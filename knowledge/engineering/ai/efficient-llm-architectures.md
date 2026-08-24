@@ -17,6 +17,7 @@ Efficiency work attacks one of four surfaces: asymptotic attention cost, precisi
 - LoRA adds trainable low-rank adapters to frozen base weights; it is a fine-tuning efficiency method, not only a deployment method.
 - Speculative decode is a serving efficiency method: draft k tokens, verify in one target forward, accept prefix. Drafter memory is overhead; quantized drafters matter on-device.
 - Progressive neural architecture search explores efficient architectures under performance constraints.
+- Infrastructure efficiency is workload-specific: training favors high-memory GPUs, high-bandwidth interconnects, and stable cluster scheduling; inference favors the smallest model that meets quality targets, batching, weight/KV-cache locality, lower precision, and latency-tiered hardware selection.
 - Practical payoff: lower serving cost, edge feasibility, model accessibility, and energy efficiency.
 
 ## Open Threads
@@ -30,3 +31,5 @@ Efficiency work attacks one of four surfaces: asymptotic attention cost, precisi
 - https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model
 - https://sebastianraschka.com/blog/2026/muse-glimmer-30b-architecture-notes.html
 - https://www.aleksagordic.com/blog/vllm
+- https://a16z.com/navigating-the-high-cost-of-ai-compute/
+- https://arxiv.org/abs/2304.13712

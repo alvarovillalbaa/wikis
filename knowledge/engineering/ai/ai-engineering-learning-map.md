@@ -5,10 +5,10 @@
 This page is a compact source map, not a claim that every URL has been fully ingested. Use it to decide which unread sources deserve capture.
 
 ## Compiled Source Clusters
-- AI/ML fundamentals: LLM101n, top AI papers, CS234, CS50 AI, Harvard ML, deep learning specialization, transformer/attention courses.
-- Systems engineering: MIT 6.033, backend roadmap, GitHub learning pathways, OpenAI PostgreSQL scaling.
+- AI/ML fundamentals: LLM101n, top AI papers, a16z AI Canon, CS234, CS50 AI, Harvard ML, deep learning specialization, transformer/attention courses.
+- Systems engineering: MIT 6.033, backend roadmap, GitHub learning pathways, OpenAI PostgreSQL scaling, AI compute economics.
 - Frontier model building: training playbooks, architecture notes, foundation-agent papers, long-context/context-engineering sources.
-- Research directions: RAG, context rot, context engineering at scale, multi-vector search, NodeRAG, AOT, prompt engineering surveys.
+- Research directions: RAG vs fine-tuning selection, context rot, context engineering at scale, multi-vector search, NodeRAG, AOT, prompt engineering surveys.
 - Agent systems: production-grade agents, agent files, A2A/MCP, research agents, self-improvement loops.
 - Safety/governance: AI governance, Anthropic RSP/constitution/core views, benchmark/needle tests.
 
@@ -26,3 +26,7 @@ This page is a compact source map, not a claim that every URL has been fully ing
 - https://web.stanford.edu/class/cs234/CS234Spr2024/index.html
 - https://openai.com/index/scaling-postgresql/
 - https://github.com/WecoAI/awesome-autoresearch
+- https://a16z.com/ai-canon/ - curated AI source index; verified 2026-08-24
+- https://a16z.com/navigating-the-high-cost-of-ai-compute/ - compute and infrastructure framework; verified 2026-08-24
+- https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7/ - RAG vs fine-tuning selection framework; verified 2026-08-24
+- https://arxiv.org/abs/2304.13712 - LLM task-fit and deployment survey; verified 2026-08-24

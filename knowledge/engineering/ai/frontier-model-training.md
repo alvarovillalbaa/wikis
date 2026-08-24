@@ -22,6 +22,7 @@ Frontier-model building is a staged optimization program: mission, scaling budge
 - Hidden-reasoning distillation risk: providers return CoT as client-side encrypted blobs. Cross-session/user/model compatibility let weaker family models transcribe frontier traces. Attack vectors: IP distillation, PII/credential recovery from published logs (315,320 blocks → 367 PII + 182 credentials), hidden harmful content in traces, encrypted prompt injection. Mitigations: server-side IDs, AEAD bind to user/session/predecessor, key rotation for leaked blobs, decoder refusal training. Patched after responsible disclosure; do not treat encrypted thinking as a secret store.
 - Governance: EU GPAI Code of Practice (July 2025, voluntary, AI Board-endorsed as "adequate", 23 signatories including OpenAI/Google/Microsoft/Anthropic) imposes three obligations — transparency (Model Documentation Form, Article 53), copyright compliance policy (Article 53), systemic-risk safety for most-advanced models only (Article 55); model/system cards, adversarial testing, incident logs, and training-data summaries cannot be bolted on late.
 - Inference: KV caching, batching, speculative decoding, paged attention, quantization, distillation, and observability define cost/token and latency SLOs.
+- Compute economics: transformer inference cost scales mainly with model parameters and generated/input tokens, while training cost also depends on memory residency, interconnect bandwidth, and repeated experiment runs. For application startups, hosted model APIs are usually the Day-1 default; direct GPU infrastructure becomes justified when model training is the product, vertical control is required, or scale economics outweigh the operational distraction.
 - Continuous training: consented prompts, failures, red-team cases, SFT/preference refreshes, and human preference A/B loops form the data flywheel.
 - Pre-seed shortcut: adopt a frontier-grade base, run domain SFT/DPO on HR workflows, capture tool traces, write governance artifacts early, and gate weekly model cuts with lightweight static + preference evals.
 
@@ -61,3 +62,5 @@ Frontier-model building is a staged optimization program: mission, scaling budge
 - https://languagemodelbuilder.com/
 - https://github.com/Liquid4All/cookbook/tree/main/finetuning
 - https://30papers.com/
+- https://a16z.com/navigating-the-high-cost-of-ai-compute/
+- https://arxiv.org/abs/2304.13712

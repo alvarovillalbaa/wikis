@@ -22,6 +22,8 @@ Context quality is an input-control problem: relevant state, distractor suppress
 - Lexical first pass: BM25 scores rarity (IDF), saturating term frequency (k1 ~1.2–2.0), and length vs collection average (b ~0.75). Use it for exact identifiers/names/codes; pair with dense retrieval for synonymy. Hybrid + RRF is the production default.
 - Context assembly operations: Filtering, Deduplicating, Re-ranking, Scoring relevance, Compressing, Combining, Splitting, Chunk stitching, Templating, Managing tools, Prompting.
 - **Context rot** (Chroma, 2025): LLM performance degrades non-linearly with input length even on trivial tasks across all SOTA models (GPT-4.1, Claude 4, Gemini 2.5, 18 total). Key patterns: (1) low semantic similarity between needle and query amplifies degradation; (2) topically-related distractors cause non-uniform failure intensifying with length — Claude abstains more, GPT hallucinates more; (3) focused prompts (~300 tokens) dramatically outperform full-context prompts (~113k tokens); (4) shuffled haystacks counterintuitively improve performance vs. structured documents (attention responds to organization patterns). Implication: distractor suppression and context compression are not optional — they determine reliability at scale.
+- RAG/fine-tuning selection is a context-design decision, not a quality ladder. Favor RAG when the model must consult external, dynamic, or auditable knowledge; favor fine-tuning when the model must internalize stable task behavior, tone, terminology, or format habits. Hybrid systems should explicitly decide which layer owns evidence freshness and which owns behavior.
+- Real-world requests are often noisy, mixed-intent, multilingual, or under-specified. Prompts and routing layers should normalize ambiguous requests before task execution; a narrow fine-tuned task model may need an upstream intent/context interpreter when the input falls outside its training distribution.
 - **Context discipline in harnesses** (Pi / Databricks 2026): same model, different harness → >2× cost/task with similar quality because of context volume per turn. Minimal default prompt + few tools + stable prefix beats wrapping the model in large instruction stacks. Local models are especially sensitive (prefill cost, small windows).
 
 ## Open Threads
@@ -37,3 +39,5 @@ Context quality is an input-control problem: relevant state, distractor suppress
 - https://www.trychroma.com/research/context-rot — context rot benchmarks across 18 LLMs
 - https://chimchim89.github.io/BM25/
 - https://earendil.com/posts/pi-autoresearch-and-databricks/
+- https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7/
+- https://arxiv.org/abs/2304.13712
