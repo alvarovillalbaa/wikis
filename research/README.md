@@ -1,7 +1,7 @@
 # Research
 
 Status: no active research artifacts in this brain.
-Last checked: 2026-05-24
+Last checked: 2026-06-17
 
 This folder is reserved for active decision-support research. Use it for briefs,
 comparisons, diligence notes, source-backed market or technical research, and
@@ -9,7 +9,7 @@ open research threads that need synthesis, confidence, and a next action.
 
 Current inventory:
 
-- No active research brief found under `research/` during the 2026-05-24
+- No active research brief found under `research/` during the 2026-06-17
   maintenance pass.
 
 Next action:

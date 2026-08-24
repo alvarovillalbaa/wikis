@@ -8,8 +8,8 @@ This is the navigation layer for canonical knowledge. `knowledge/` is the mainta
 - [Frontier model training](engineering/ai/frontier-model-training.md) - end-to-end model build sequence, data, training, post-training, local pedagogical pipelines, compact distillation.
 - [Pretraining run operations](engineering/ai/pretraining-run-operations.md) - curriculum, packing, telemetry, gates, incidents, artifacts.
 - [Efficient LLM architectures](engineering/ai/efficient-llm-architectures.md) - subquadratic attention, Ring Attention, quantization, MoE, LoRA, speculative decode.
-- [Context and prompt engineering](engineering/ai/context-and-prompt-engineering.md) - prompting families, 6 context types, BM25/hybrid retrieval, context assembly, context rot, harness context discipline.
-- [Agent systems and protocols](engineering/ai/agent-systems-and-protocols.md) - A2A, MCP, harness engineering, production evals/ABM, Muse Glimmer, Agentic MapReduce, Manus, Foundation Agents, Paperclip.
+- [Context and prompt engineering](engineering/ai/context-and-prompt-engineering.md) - prompting families, output-contract practice, 6 context types, retrieval strategies, context assembly operations, context rot benchmarks.
+- [Agent systems and protocols](engineering/ai/agent-systems-and-protocols.md) - A2A, MCP, Agents SDK, research-agent architecture, 4-pillar failure framework, harness engineering, production evals/ABM, Muse Glimmer, Agentic MapReduce, Manus, Foundation Agents, Paperclip, Slate thread weaving.
 - [Liquid information technology](engineering/ai/liquid-information-technology.md) - routing and translation capabilities stub.
 - [100x users](engineering/software/100x-users.md) - software for 100 agents per user thesis.
 - [Data movement](engineering/software/data-movement.md) - data value creation through movement (create → update → read).
