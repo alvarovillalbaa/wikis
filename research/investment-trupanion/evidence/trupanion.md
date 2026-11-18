@@ -1,3 +1,7 @@
+> **Archivo histórico — conservación documentada: 2026-10-10.**
+> Los precios, valoraciones, juicios y expresiones como «hoy» o «actualmente» pertenecen a la nota original. Esta fecha documenta su conservación y no fecha ni valida los datos de mercado; las fechas no expresadas en el original siguen sin verificar. No se han actualizado cotizaciones ni recomendaciones.
+> Procedencia: [original en Git, commit 341e15e](https://github.com/alvarovillalbaa/agents-fs/blob/341e15e6fe7894d8150161ed56bea181e77f2fc1/research/investment/trupanion.md). El cuerpo histórico se conserva íntegro a continuación.
+
 ## Trupanion (TRUP) — análisis desde una perspectiva de inversión
 
 Mi lectura: **TRUP es una tesis de “turnaround rentable” con buen potencial, pero no es una apuesta sencilla**. El negocio ha pasado de “crecimiento con pérdidas” a rentabilidad GAAP y flujo de caja positivo, cotiza a múltiplos razonables sobre ingresos y flujo, y opera en un mercado todavía muy poco penetrado. El riesgo es que gran parte del crecimiento reciente viene de **subidas de precio**, no de fuerte crecimiento neto de mascotas, y en seguros eso siempre exige disciplina actuarial, regulación favorable y retención alta.

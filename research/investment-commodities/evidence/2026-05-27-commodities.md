@@ -1,3 +1,7 @@
+> **Archivo histórico — conservación documentada: 2026-10-10.**
+> Los precios, valoraciones, juicios y expresiones como «hoy» o «actualmente» pertenecen a la nota original. Esta fecha documenta su conservación y no fecha ni valida los datos de mercado; las fechas no expresadas en el original siguen sin verificar. No se han actualizado cotizaciones ni recomendaciones.
+> Procedencia: [original en Git, commit 341e15e](https://github.com/alvarovillalbaa/agents-fs/blob/341e15e6fe7894d8150161ed56bea181e77f2fc1/research/investment/2026-05-27-commodities.md). El cuerpo histórico se conserva íntegro a continuación.
+
 A fecha **27 de mayo de 2026**, yo miraría commodities con una lógica de **eventos + concentración + convexidad**: dónde una interrupción pequeña puede mover mucho el precio porque la oferta está concentrada, los inventarios son bajos, la logística es frágil o la demanda estructural está acelerando.
 
 No lo tomes como recomendación personalizada de inversión. Lo útil aquí es convertirlo en **watchlist operativa**: qué commodity vigilar, qué evento confirmaría la tesis, qué evento la invalidaría y qué datos mirar.

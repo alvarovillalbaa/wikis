@@ -42,7 +42,7 @@ LLM performance is the interaction of representation, scale, memory movement, de
 
 ## Sources
 - raw/_history/Private & Shared 10/AI Engineering/@Alvaro Villalba Perez learns 2a2a1ee8bd0680b7ab33d8c5c6650c64.md (processed stub)
-- raw/PROCESSED.md
+- [raw/PROCESSED.md — preserved archive member](../../../SOURCES.md#archive-003)
 - https://www.aleksagordic.com/blog/vllm
 - https://arxiv.org/html/2607.16100v1
 - https://arxiv.org/abs/2608.09867

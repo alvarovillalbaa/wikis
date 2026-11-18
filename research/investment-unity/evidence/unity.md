@@ -1,3 +1,7 @@
+> **Archivo histórico — conservación documentada: 2026-10-10.**
+> Los precios, valoraciones, juicios y expresiones como «hoy» o «actualmente» pertenecen a la nota original. Esta fecha documenta su conservación y no fecha ni valida los datos de mercado; las fechas no expresadas en el original siguen sin verificar. No se han actualizado cotizaciones ni recomendaciones.
+> Procedencia: [original en Git, commit 341e15e](https://github.com/alvarovillalbaa/agents-fs/blob/341e15e6fe7894d8150161ed56bea181e77f2fc1/research/investment/unity.md). El cuerpo histórico se conserva íntegro a continuación.
+
 No es asesoramiento financiero personalizado. Mi lectura: **Unity es una inversión de “turnaround” de alto potencial, pero no una empresa de calidad incuestionable todavía**. Tiene activos muy valiosos —motor de desarrollo, base de desarrolladores, presencia en mobile gaming y red publicitaria—, pero su historial de ejecución, adquisiciones, dilución y relación con desarrolladores obliga a exigir un margen de seguridad real.
 
 ## Información sobre el mercado de valores para Unity Software Inc (U)

@@ -32,10 +32,10 @@ Context quality is an input-control problem: relevant state, distractor suppress
 - Capture the screenshare audio transcript before using it for process rationale beyond visible UI states.
 
 ## Sources
-- raw/_history/Private & Shared 10/AI Engineering 14ea1ee8bd0680abbf4cca7f900fbd02.md
+- `raw/_history/Private & Shared 10/AI Engineering 14ea1ee8bd0680abbf4cca7f900fbd02.md` — [unresolved historical source](../../../GAPS.md#missing-ai-engineering-source).
 - https://www.dbreunig.com/2025/05/07/claude-s-system-prompt-chatbots-are-more-than-just-models.html
-- raw/_history/Private & Shared 10/AI Engineering/Screenshare_-_2024-07-20_11_19_02_AM.mp4 — visual frames sampled 2026-06-11; audio transcript unavailable
-- raw/_history/Private & Shared 10/AI Engineering/image 1.png, image 2.png, image 3.png, image 4.png — productcompass.pm context taxonomy
+- [raw/_history/Private & Shared 10/AI Engineering/Screenshare_-_2024-07-20_11_19_02_AM.mp4](../../../SOURCES.md#archive-007) — visual frames sampled 2026-06-11; audio transcript unavailable
+- productcompass.pm context taxonomy — preserved members under `raw/_history/Private & Shared 10/AI Engineering/`: [image 1.png](../../../SOURCES.md#archive-008), [image 2.png](../../../SOURCES.md#archive-009), [image 3.png](../../../SOURCES.md#archive-010), [image 4.png](../../../SOURCES.md#archive-011).
 - https://www.trychroma.com/research/context-rot — context rot benchmarks across 18 LLMs
 - https://chimchim89.github.io/BM25/
 - https://earendil.com/posts/pi-autoresearch-and-databricks/

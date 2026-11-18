@@ -1,3 +1,7 @@
+> **Archivo histórico — conservación documentada: 2026-10-10.**
+> Los precios, valoraciones, juicios y expresiones como «hoy» o «actualmente» pertenecen a la nota original. Esta fecha documenta su conservación y no fecha ni valida los datos de mercado; las fechas no expresadas en el original siguen sin verificar. No se han actualizado cotizaciones ni recomendaciones.
+> Procedencia: [original en Git, commit 341e15e](https://github.com/alvarovillalbaa/agents-fs/blob/341e15e6fe7894d8150161ed56bea181e77f2fc1/research/investment/tempus.md). El cuerpo histórico se conserva íntegro a continuación.
+
 ## Veredicto rápido
 
 Tempus AI (**TEM**) es una de las historias públicas más interesantes en **IA + medicina de precisión**, pero no es una acción “segura”. A mí me parece una compañía con **moat potencial real** —datos multimodales, volumen de tests, relaciones con médicos y farmacéuticas—, pero el mercado todavía está pagando por una promesa de expansión de márgenes que **aún no está probada en GAAP**.

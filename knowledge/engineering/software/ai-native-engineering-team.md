@@ -19,5 +19,5 @@ AI-native engineering delegates mechanical SDLC work to coding agents while engi
 - Add examples of gold-standard PRs, test coverage, and incident diagnostics before scaling autonomous coding workflows.
 
 ## Sources
-- sources/engineering/building-an-ai-native-engineering-team.pdf
+- [sources/engineering/building-an-ai-native-engineering-team.pdf — preserved archive member](../../../SOURCES.md#archive-025)
 - https://github.com/garrytan/gstack/tree/main/autoplan — autoplan automated plan-review skill

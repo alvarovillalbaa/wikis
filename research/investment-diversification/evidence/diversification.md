@@ -1,3 +1,7 @@
+> **Archivo histórico — conservación documentada: 2026-10-10.**
+> Los precios, valoraciones, juicios y expresiones como «hoy» o «actualmente» pertenecen a la nota original. Esta fecha documenta su conservación y no fecha ni valida los datos de mercado; las fechas no expresadas en el original siguen sin verificar. No se han actualizado cotizaciones ni recomendaciones.
+> Procedencia: [original en Git, commit 341e15e](https://github.com/alvarovillalbaa/agents-fs/blob/341e15e6fe7894d8150161ed56bea181e77f2fc1/research/investment/diversification.md). El cuerpo histórico se conserva íntegro a continuación.
+
 Sí. Hay oportunidades interesantes, pero la conclusión más importante es esta: **en AI infrastructure física casi todo lo “obvio” ya está caro**. Donde sí veo posibilidades tipo value o “quality at reasonable price” es en **seguros verticalizados, TransMedics tras la caída, Adyen como sustituto parcial de fintech, algunas aseguradoras specialty, y quizá defensa-infraestructura vía acciones concretas más que ETF**.
 
 No es una recomendación financiera personalizada; es un mapa de investigación con mi opinión.

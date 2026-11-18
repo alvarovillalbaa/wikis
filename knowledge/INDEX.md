@@ -1,8 +1,6 @@
 # Knowledge Index
 
-This is the navigation layer for canonical knowledge. `knowledge/` is the maintained layer; `raw/` is only intake and residual source queue.
-
-[Complete learning-note catalog](../lib/learning-notes/README.md).
+This maps unique generalized synthesis and retained source artifacts. Links into lib/learning-notes are generated study notes, not promoted unique knowledge. Raw material is preserved in personal Drive via SOURCES.md.
 
 ## Engineering / AI
 - [AI systems of agents](engineering/ai/ai-systems-of-agents.md) - agent/system processing modes, cognitive workload, workflow layers.
@@ -59,7 +57,6 @@ This is the navigation layer for canonical knowledge. `knowledge/` is the mainta
 - [Strategic marketing](../lib/learning-notes/business/marketing/strategic-marketing.md)
 - [AI fluency](business/ai/ai-fluency.md)
 - [Financial accounting](../lib/learning-notes/business/finance/financial-accounting.md)
-- [Labor economics and public policy](../lib/learning-notes/business/economics/labor-economics.md)
 
 ## Sales And Product
 - [Sales learning and GTM map](business/sales/sales-learning-and-gtm-map.md) - sales, enterprise GTM, competitor talk, validation, first reps, career-arbitrage AE note.
@@ -118,6 +115,5 @@ This is the navigation layer for canonical knowledge. `knowledge/` is the mainta
 - [Aeroelasticity](../lib/learning-notes/aerospace/aeroelasticity/aeroelasticity.md)
 - [Numerical methods (FEM/CFD)](../lib/learning-notes/aerospace/numerical-methods/fem-cfd.md)
 - [Air transport systems](../lib/learning-notes/aerospace/air-transport/air-transport-systems.md)
-- [Applied thermodynamics](../lib/learning-notes/aerospace/thermodynamics/applied-thermodynamics.md)
 - [PROCESSED](../results/2026/10-10/ingestion-history/knowledge--aerospace--PROCESSED.md)
 - [UNPROCESSED](../results/2026/10-10/ingestion-history/knowledge--aerospace--UNPROCESSED.md)

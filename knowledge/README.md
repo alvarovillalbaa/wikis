@@ -1,8 +1,6 @@
 # Knowledge
 
-`knowledge/` holds unique generalized knowledge, perspectives and synthesis.
-Copied source summaries live in `lib/learning-notes`; operations, facts,
-decisions and research use their appropriate maintained owners.
+`knowledge/` holds unique generalized knowledge, perspectives and synthesis. Pure course/book extracts remain in lib/learning-notes; operational definitions belong to their explicit owners.
 
 ## Rules
 - Use `knowledge/INDEX.md` first.
@@ -10,9 +8,7 @@ decisions and research use their appropriate maintained owners.
 - Update existing pages before creating duplicates.
 - Manual knowledge from Alvaro must include `[Source: Alvaro’s Brain]`.
 - External claims need URL-based sources.
-- Unread source pointers remain cataloged in `SOURCES.md` until readable evidence
-  is inspected. Raw originals belong in the authorized private personal Drive;
-  preserve citations even when the original artifact is currently missing.
+- Unread sources stay recorded in SOURCES.md and private Drive until readable capture is available; do not claim they were ingested.
 
 ## Future Knowledge
 - Winning the infinite game

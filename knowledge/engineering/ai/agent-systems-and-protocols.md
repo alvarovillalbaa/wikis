@@ -39,8 +39,8 @@ Agent architecture separates tool access, agent orchestration, cross-agent proto
 - Apply Agentic MapReduce only where completeness over a corpus is the trust condition (policy scan, migration, eval coverage), not for local bugfixes.
 
 ## Sources
-- raw/_history/Private & Shared 10/AI Engineering 14ea1ee8bd0680abbf4cca7f900fbd02.md
-- sources/ai/principles-of-building-ai-agents.pdf
+- `raw/_history/Private & Shared 10/AI Engineering 14ea1ee8bd0680abbf4cca7f900fbd02.md` — [unresolved historical source](../../../GAPS.md#missing-ai-engineering-source).
+- [sources/ai/principles-of-building-ai-agents.pdf — preserved archive member](../../../SOURCES.md#archive-021)
 - https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/
 - https://github.com/google/A2A
 - https://google.github.io/A2A/
@@ -52,7 +52,7 @@ Agent architecture separates tool access, agent orchestration, cross-agent proto
 - https://www.langchain.com/
 - https://www.microsoft.com/en-us/research/project/autogen/
 - https://www.databricks.com/
-- raw/_history/Private & Shared 10/AI Engineering/image.png — "How to Build an AI Agent That Doesn't Feel Dumb" (4-pillar framework)
+- [raw/_history/Private & Shared 10/AI Engineering/image.png](../../../SOURCES.md#archive-012) — "How to Build an AI Agent That Doesn't Feel Dumb" (4-pillar framework)
 - https://rlancemartin.github.io/2025/10/15/manus/ — Manus agent architecture deep-dive
 - https://arxiv.org/abs/2504.01990 — Foundation Agents survey: brain-inspired modular architecture (Bang Liu et al.)
 - https://github.com/paperclipai/paperclip — Paperclip multi-agent company orchestration

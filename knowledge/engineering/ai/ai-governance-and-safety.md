@@ -30,8 +30,8 @@ Agent governance is the control layer for autonomous software that can pursue go
 - Convert governance levers into concrete Clous runtime checks: action permissions, memory boundaries, logs, eval gates, and incident response.
 
 ## Sources
-- raw/_history/Private & Shared 10/AI Engineering 14ea1ee8bd0680abbf4cca7f900fbd02.md
-- sources/ai/agent-governance.pdf
+- `raw/_history/Private & Shared 10/AI Engineering 14ea1ee8bd0680abbf4cca7f900fbd02.md` — [unresolved historical source](../../../GAPS.md#missing-ai-engineering-source).
+- [sources/ai/agent-governance.pdf — preserved archive member](../../../SOURCES.md#archive-018)
 - https://www.anthropic.com/news/anthropics-responsible-scaling-policy
 - https://assets.anthropic.com/m/24a47b00f10301cd/original/Anthropic-Responsible-Scaling-Policy-2024-10-15.pdf
 - https://www.anthropic.com/news/claudes-constitution

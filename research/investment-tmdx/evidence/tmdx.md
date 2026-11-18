@@ -1,3 +1,7 @@
+> **Archivo histórico — conservación documentada: 2026-10-10.**
+> Los precios, valoraciones, juicios y expresiones como «hoy» o «actualmente» pertenecen a la nota original. Esta fecha documenta su conservación y no fecha ni valida los datos de mercado; las fechas no expresadas en el original siguen sin verificar. No se han actualizado cotizaciones ni recomendaciones.
+> Procedencia: [original en Git, commit 341e15e](https://github.com/alvarovillalbaa/agents-fs/blob/341e15e6fe7894d8150161ed56bea181e77f2fc1/research/investment/tmdx.md). El cuerpo histórico se conserva íntegro a continuación.
+
 ## Resumen ejecutivo
 
 TransMedics Group, ticker **TMDX**, no es simplemente una empresa que vende “neveras mejores” para órganos. Su tesis es más potente: convierte la preservación de órganos en un **servicio clínico-logístico nacional**. Su sistema OCS mantiene órganos vivos fuera del cuerpo con perfusión normotérmica, y su National OCS Program, NOP, ofrece extracción, perfusión, transporte aéreo/terrestre y entrega al centro trasplantador.

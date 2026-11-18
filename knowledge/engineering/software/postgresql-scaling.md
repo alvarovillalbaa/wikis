@@ -24,7 +24,7 @@ OpenAI's 2026 PostgreSQL case study is durable evidence that single-primary Post
 
 ## Sources
 - https://openai.com/index/scaling-postgresql/ — accessed 2026-05-21
-- `raw/UNPROCESSED.md` — residual URL previously marked blocked.
+- [raw/UNPROCESSED.md — preserved archive member](../../../SOURCES.md#archive-005) — residual URL previously marked blocked.
 
 ## Change Log
 - 2026-05-21 — Created from readable residual OpenAI PostgreSQL scaling source.

@@ -1,3 +1,7 @@
+> **Archivo histórico — conservación documentada: 2026-10-10.**
+> Los precios, valoraciones, juicios y expresiones como «hoy» o «actualmente» pertenecen a la nota original. Esta fecha documenta su conservación y no fecha ni valida los datos de mercado; las fechas no expresadas en el original siguen sin verificar. No se han actualizado cotizaciones ni recomendaciones.
+> Procedencia: [original en Git, commit 341e15e](https://github.com/alvarovillalbaa/agents-fs/blob/341e15e6fe7894d8150161ed56bea181e77f2fc1/research/investment/hcat.md). El cuerpo histórico se conserva íntegro a continuación.
+
 A mi juicio, **Health Catalyst (HCAT) es una microcap de “turnaround” muy barata en múltiplos aparentes, pero barata por razones reales**: ingresos en caída, transición de plataforma complicada, retención deteriorada, flujo de caja débil frente al EBITDA ajustado y deuda cara. No la trataría como una SaaS sanitaria de crecimiento; la trataría como una apuesta especulativa de reestructuración.
 
 ## Información sobre el mercado de valores para Health Catalyst Inc (HCAT)
