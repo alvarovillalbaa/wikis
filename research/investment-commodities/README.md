@@ -24,6 +24,6 @@ Review primary filings and dated source evidence, compare upside/base/downside a
 
 Imported historical notes; no market refresh or hypothesis validation in this migration.
 
-- [Original 2026-05-27-commodities note](evidence/2026-05-27-commodities.md)
+- [Original 2026-05-27-commodities note](evidence/2026/05-27/commodities.md)
 
 Next action: extract the source-specific thesis and first measurable question.
