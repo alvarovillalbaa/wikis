@@ -1,0 +1,54 @@
+{
+  "status": "passed",
+  "verified_at": "2026-11-18T09:54:37.729281+00:00",
+  "repository": "alvarovillalbaa/wikis",
+  "pull_request": 1,
+  "source_parent_commit": "61aeaa5ae732d9d62ef2f44bdf0f9f34b442f73c",
+  "original_base_commit": "8612e75b6f4345313737638feee6eaea250b8766",
+  "repo_date_rule": "YYYY/MM-DD",
+  "original_path_receipt": "results/2026/10-10/afs-path-map.json",
+  "original_path_receipt_sha256": "1df32c1c799e6b18496583c974630954d760afd3665822d04e726f3143388e2d",
+  "original_receipt_unchanged": true,
+  "original_payloads_verified_against_receipt_and_git_base": 51,
+  "corrected_destinations": [
+    {
+      "from": "research/investment-market-review/evidence/2026-05-01.md",
+      "to": "research/investment-market-review/evidence/2026/05-01/market-review.md",
+      "original_source_path": "research/investment/2026-05-01.md",
+      "bytes": 18653,
+      "sha256": "7ecccd060e29945d58ea2b99931fb5f1406f052f3c93dffe3055dddf30f4d044"
+    },
+    {
+      "from": "research/investment-commodities/evidence/2026-05-27-commodities.md",
+      "to": "research/investment-commodities/evidence/2026/05-27/commodities.md",
+      "original_source_path": "research/investment/2026-05-27-commodities.md",
+      "bytes": 82122,
+      "sha256": "2dd33c1a8b3dd59e9546f5e8eb15b8d4070dc72669d56f3af9ffd24267dd849e"
+    }
+  ],
+  "preexisting_payloads_unchanged_except_navigation": 143,
+  "learning_notes_in_catalog": 34,
+  "learning_notes_in_knowledge_index": 34,
+  "previously_missing_navigation": [
+    "lib/learning-notes/aerospace/thermodynamics/applied-thermodynamics.md",
+    "lib/learning-notes/business/economics/labor-economics.md"
+  ],
+  "maintained_local_links_checked": 173,
+  "active_unresolved_queue_files": [
+    "results/2026/10-10/ingestion-history/knowledge--cant-move.md",
+    "results/2026/10-10/ingestion-history/knowledge--aerospace--UNPROCESSED.md"
+  ],
+  "queue_bytes_unchanged": true,
+  "configured_workflow_files_at_source_parent": false,
+  "external_sources_refreshed": false,
+  "financial_claims_reassessed": false,
+  "read_only_structure_validation": {
+    "tool_repository": "alvarovillalbaa/afs",
+    "tool_commit": "c0173467b840cf7dd1491ccbfb3ea5b568208aaf",
+    "tool_script": "skills/use-afs/scripts/validate-afs.mjs",
+    "exit_code": 0,
+    "stdout": "Warning: lessons/ is recommended in a complete AFS shell.\nWarning: facts/ is recommended in a complete AFS shell.\nWarning: facts/general/ is recommended in a complete AFS shell.\nWarning: fixes/ is recommended in a complete AFS shell.\nWarning: decisions/ is recommended in a complete AFS shell.\nWarning: steers/ is recommended in a complete AFS shell.\nWarning: problems/ is recommended in a complete AFS shell.\nWarning: reflections/ is recommended in a complete AFS shell.\nWarning: plans/ is recommended in a complete AFS shell.\nWarning: specs/ is recommended in a complete AFS shell.\nWarning: objects/ is recommended in a complete AFS shell.\nWarning: cookbooks/ is recommended in a complete AFS shell.\nWarning: runbooks/ is recommended in a complete AFS shell.\nAFS validation passed (root): <workspace>\n",
+    "stderr": "",
+    "scope": "read-only candidate-structure validation; separate payload and navigation checks cover this correction; no write-capable migrator was run"
+  }
+}

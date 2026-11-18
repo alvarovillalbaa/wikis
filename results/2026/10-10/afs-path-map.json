@@ -1,0 +1,308 @@
+[
+  {
+    "from": "knowledge/PROCESSED-WORK-KNOWLEDGE.md",
+    "to": "results/2026/10-10/ingestion-history/knowledge--PROCESSED-WORK-KNOWLEDGE.md",
+    "bytes": 22721,
+    "sha256": "1311fc145bb529f433913a5f79b4ef98f189cad0b9aedee1dd2e7496f53c2bbc"
+  },
+  {
+    "from": "knowledge/aerospace/PROCESSED.md",
+    "to": "results/2026/10-10/ingestion-history/knowledge--aerospace--PROCESSED.md",
+    "bytes": 9497,
+    "sha256": "7c5bba444dd49b9369baffbde251c397ceac4cb482f2ecbad2efe3cd7f6a33b7"
+  },
+  {
+    "from": "knowledge/aerospace/UNPROCESSED.md",
+    "to": "results/2026/10-10/ingestion-history/knowledge--aerospace--UNPROCESSED.md",
+    "bytes": 8160,
+    "sha256": "bd79efa52c0c5e97b0dd215b0080ac6d3f4dd95405c7094f768babf57a3f3c93"
+  },
+  {
+    "from": "knowledge/aerospace/aeroelasticity/aeroelasticity.md",
+    "to": "lib/learning-notes/aerospace/aeroelasticity/aeroelasticity.md",
+    "bytes": 6044,
+    "sha256": "065ed4d4e6dd3bd6cdd23d0ebad5cafcddf427e714eb97ab54dfce27a33e37c7"
+  },
+  {
+    "from": "knowledge/aerospace/air-transport/air-transport-systems.md",
+    "to": "lib/learning-notes/aerospace/air-transport/air-transport-systems.md",
+    "bytes": 7053,
+    "sha256": "85bf0397c5524a24614563708d71ee9a18f9dd2e71d9e137cc373f33876cd317"
+  },
+  {
+    "from": "knowledge/aerospace/flight-mechanics/flight-mechanics.md",
+    "to": "lib/learning-notes/aerospace/flight-mechanics/flight-mechanics.md",
+    "bytes": 7074,
+    "sha256": "b03a4da6a2c238074911eeb98be38242543cdade28b48e884ca1baae7728f923"
+  },
+  {
+    "from": "knowledge/aerospace/manufacturing/aerospace-manufacturing.md",
+    "to": "lib/learning-notes/aerospace/manufacturing/aerospace-manufacturing.md",
+    "bytes": 11587,
+    "sha256": "5d21402b7ae8b4d90d4919997a7cbdfc8d141c826c9ab0589e879ce7931e9920"
+  },
+  {
+    "from": "knowledge/aerospace/manufacturing/aerospace-welding.md",
+    "to": "lib/learning-notes/aerospace/manufacturing/aerospace-welding.md",
+    "bytes": 14837,
+    "sha256": "b98c32a2d31e4f05b213dc8b5e7902ff68418a3e2d2202a3e72c386cbe91d6db"
+  },
+  {
+    "from": "knowledge/aerospace/materials/aerospace-alloys.md",
+    "to": "lib/learning-notes/aerospace/materials/aerospace-alloys.md",
+    "bytes": 13504,
+    "sha256": "0613f7cff29818996cbed7e38233abf3508d4e83088463777d5a9c909a358eda"
+  },
+  {
+    "from": "knowledge/aerospace/materials/materials-science.md",
+    "to": "lib/learning-notes/aerospace/materials/materials-science.md",
+    "bytes": 27241,
+    "sha256": "0b09022f7b899b36bd40ea7d7cfe08bd90a73162068cc3ce42805ba0b4dc11c8"
+  },
+  {
+    "from": "knowledge/aerospace/numerical-methods/fem-cfd.md",
+    "to": "lib/learning-notes/aerospace/numerical-methods/fem-cfd.md",
+    "bytes": 20639,
+    "sha256": "1941add9a54b8df8c3f664a80bbf8b481a32c3c7fa37191d8ef142a06c172a2e"
+  },
+  {
+    "from": "knowledge/aerospace/solid-mechanics/solid-mechanics.md",
+    "to": "lib/learning-notes/aerospace/solid-mechanics/solid-mechanics.md",
+    "bytes": 9744,
+    "sha256": "d1505e4967c955af735bbe2c03bc7ce175e1c2d17edc5c1001f6dfa122c59468"
+  },
+  {
+    "from": "knowledge/aerospace/structures/structural-integrity-stability.md",
+    "to": "lib/learning-notes/aerospace/structures/structural-integrity-stability.md",
+    "bytes": 8951,
+    "sha256": "961e34651f78d5c4180f639e18b5fa80ea436759f89fb1dcb89f839a6467585a"
+  },
+  {
+    "from": "knowledge/aerospace/structures/thin-walled-structures.md",
+    "to": "lib/learning-notes/aerospace/structures/thin-walled-structures.md",
+    "bytes": 7958,
+    "sha256": "123ad2555df96b330e411e12f10d83b3b6a3d5b680bcde866ec653885721e1cc"
+  },
+  {
+    "from": "knowledge/aerospace/thermodynamics/applied-thermodynamics.md",
+    "to": "lib/learning-notes/aerospace/thermodynamics/applied-thermodynamics.md",
+    "bytes": 5956,
+    "sha256": "6cabf0f577757b37dd88d654801450d8601414c5d7f31a9fb2ea0acb869db589"
+  },
+  {
+    "from": "knowledge/business/economics/labor-economics.md",
+    "to": "lib/learning-notes/business/economics/labor-economics.md",
+    "bytes": 6777,
+    "sha256": "91c6228b7dbf1981af8c1c0df03d417554e43d8cc806e032082233d2ac884fbc"
+  },
+  {
+    "from": "knowledge/business/entrepreneurship/lean-startup.md",
+    "to": "lib/learning-notes/business/entrepreneurship/lean-startup.md",
+    "bytes": 5588,
+    "sha256": "c62f79d865304b7bc1850bd8d7acb590599e69f9613ec3922a482699021e1153"
+  },
+  {
+    "from": "knowledge/business/entrepreneurship/zero-to-one.md",
+    "to": "lib/learning-notes/business/entrepreneurship/zero-to-one.md",
+    "bytes": 7369,
+    "sha256": "a4b85ed57a7da6c5ba1264fabca94b10103416e699aca4b44305c2738b8e9cd2"
+  },
+  {
+    "from": "knowledge/business/finance/financial-accounting.md",
+    "to": "lib/learning-notes/business/finance/financial-accounting.md",
+    "bytes": 13277,
+    "sha256": "2a25a3bf1c540a408605155a88752c3e2885abde071e8beb5718fffa90ae6002"
+  },
+  {
+    "from": "knowledge/business/leadership/hard-things.md",
+    "to": "lib/learning-notes/business/leadership/hard-things.md",
+    "bytes": 7696,
+    "sha256": "bdcee33846c0dbc68ea871b48b1d9c62dd4c5be81eec7eb2b60b2ea6b331f265"
+  },
+  {
+    "from": "knowledge/business/leadership/start-with-why.md",
+    "to": "lib/learning-notes/business/leadership/start-with-why.md",
+    "bytes": 5869,
+    "sha256": "03a062efa369b67f841eac98313d6919455013de651c9b9bb71b89eaa7212238"
+  },
+  {
+    "from": "knowledge/business/marketing/strategic-marketing.md",
+    "to": "lib/learning-notes/business/marketing/strategic-marketing.md",
+    "bytes": 10631,
+    "sha256": "a1c7c55ac4797d58f0e99548f4528fab59169a158f862ad9576be91c61f1d137"
+  },
+  {
+    "from": "knowledge/business/markets/competitive-strategy.md",
+    "to": "lib/learning-notes/business/markets/competitive-strategy.md",
+    "bytes": 17558,
+    "sha256": "b58ce371be4d986cb83fe8b31c7258479489abba1f82faaf5b2d119c9552a51c"
+  },
+  {
+    "from": "knowledge/cant-move.md",
+    "to": "results/2026/10-10/ingestion-history/knowledge--cant-move.md",
+    "bytes": 16548,
+    "sha256": "16179113af17e64a4253c5bb13ff6b3e4d3850c9ae997c88a9d30ef1ad3d1a25"
+  },
+  {
+    "from": "knowledge/design/data-visualization.md",
+    "to": "lib/learning-notes/design/data-visualization.md",
+    "bytes": 5757,
+    "sha256": "336d66c59b5f53e640f8d26aeecb54e1047f4608b87248c7457230edf9c07d2f"
+  },
+  {
+    "from": "knowledge/engineering/ai/chain-of-thought-faithfulness.md",
+    "to": "lib/learning-notes/engineering/ai/chain-of-thought-faithfulness.md",
+    "bytes": 3788,
+    "sha256": "6ad9814df9a306da23ac96f6277ef2f7c9c63c78405bde5897f2ba6c8d605c33"
+  },
+  {
+    "from": "knowledge/engineering/cloud/aws.md",
+    "to": "lib/learning-notes/engineering/cloud/aws.md",
+    "bytes": 8574,
+    "sha256": "cb0b183dc0bd6da2a1ce6718a2b03aa33168c11130bba32eaae1edc2909e3da5"
+  },
+  {
+    "from": "knowledge/engineering/data-science/applied-data-science-python.md",
+    "to": "lib/learning-notes/engineering/data-science/applied-data-science-python.md",
+    "bytes": 21409,
+    "sha256": "0400d21199494eb73a2f9584289c0831f32d76b23f6c99eddcc470536565e865"
+  },
+  {
+    "from": "knowledge/engineering/ml/ml-foundations.md",
+    "to": "lib/learning-notes/engineering/ml/ml-foundations.md",
+    "bytes": 3504,
+    "sha256": "06de23e860ce4d147f5c36bec9fe4975c42015b0f7eedf6724e45a6a53025e0c"
+  },
+  {
+    "from": "knowledge/engineering/security/cybersecurity.md",
+    "to": "lib/learning-notes/engineering/security/cybersecurity.md",
+    "bytes": 7731,
+    "sha256": "3480a3339004d71ad676deb3779be6915d8c7d990321c35f19e14dfd3ae56418"
+  },
+  {
+    "from": "knowledge/engineering/systems-thinking.md",
+    "to": "lib/learning-notes/engineering/systems-thinking.md",
+    "bytes": 6179,
+    "sha256": "7842da061fff91bc39a642cb1e25053f7963f0c2cfd6a0d49b457a2ce4b3af6d"
+  },
+  {
+    "from": "knowledge/humanities/behaviour/behavioral-economics.md",
+    "to": "lib/learning-notes/humanities/behaviour/behavioral-economics.md",
+    "bytes": 8654,
+    "sha256": "8281000cf2d72d5efc6963f9265b476498b7bbe4d07a51fbc6e35a89d483380a"
+  },
+  {
+    "from": "knowledge/humanities/behaviour/habit-formation.md",
+    "to": "lib/learning-notes/humanities/behaviour/habit-formation.md",
+    "bytes": 5531,
+    "sha256": "7920fbc21a54608e90653a916306e3b1a033215b20497018eacafe80b3bc1830"
+  },
+  {
+    "from": "knowledge/humanities/learning/skill-acquisition.md",
+    "to": "lib/learning-notes/humanities/learning/skill-acquisition.md",
+    "bytes": 6497,
+    "sha256": "ade70be32bd160eb6b5ce7c7deef2b5090267cb287b1b1b4497cebd0d06060b1"
+  },
+  {
+    "from": "knowledge/investment/portfolio-theory.md",
+    "to": "lib/learning-notes/investment/portfolio-theory.md",
+    "bytes": 27945,
+    "sha256": "17f6322fdd9a234e2c846836383c0b49fbe3e0f99afd4f8a6faffa4fc4b0a55e"
+  },
+  {
+    "from": "knowledge/languages/german-b2.md",
+    "to": "lib/learning-notes/languages/german-b2.md",
+    "bytes": 10379,
+    "sha256": "4a3f882f4abc2cd0e6a6b1001c6c4bfa0e2bab303a02269b7623345e8be0f3e6"
+  },
+  {
+    "from": "knowledge/product/project-management.md",
+    "to": "lib/learning-notes/product/project-management.md",
+    "bytes": 4140,
+    "sha256": "667790eb7a4c580765d11393ef30b8c8d9d95d022b1a339cf90899a8bc4e573b"
+  },
+  {
+    "from": "knowledge/sales/predictable-revenue.md",
+    "to": "lib/learning-notes/sales/predictable-revenue.md",
+    "bytes": 4985,
+    "sha256": "084f39d5a8981d4aae9c3393a6818b84cc752fdc871f3cb45cca43b6b1749acb"
+  },
+  {
+    "from": "research/investment/2026-05-01.md",
+    "to": "research/investment-market-review/evidence/2026-05-01.md",
+    "bytes": 18653,
+    "sha256": "7ecccd060e29945d58ea2b99931fb5f1406f052f3c93dffe3055dddf30f4d044"
+  },
+  {
+    "from": "research/investment/2026-05-27-commodities.md",
+    "to": "research/investment-commodities/evidence/2026-05-27-commodities.md",
+    "bytes": 82122,
+    "sha256": "2dd33c1a8b3dd59e9546f5e8eb15b8d4070dc72669d56f3af9ffd24267dd849e"
+  },
+  {
+    "from": "research/investment/dassault-systemes.md",
+    "to": "research/investment-dassault-systemes/evidence/dassault-systemes.md",
+    "bytes": 18119,
+    "sha256": "40608923dd32b43123b740ec2a07fac611fdb4bf8e27f703551006548f2f6abe"
+  },
+  {
+    "from": "research/investment/diversification.md",
+    "to": "research/investment-diversification/evidence/diversification.md",
+    "bytes": 45976,
+    "sha256": "1f2287777f39669ec867759756becaee349ce8896d7066b41b11ba64a29c3330"
+  },
+  {
+    "from": "research/investment/doximity.md",
+    "to": "research/investment-doximity/evidence/doximity.md",
+    "bytes": 12087,
+    "sha256": "2ab40f92d4a2bcf95bf545f83a4d3dcf3b119d0ac55c3dec311637ffd84bc8d0"
+  },
+  {
+    "from": "research/investment/hcat.md",
+    "to": "research/investment-hcat/evidence/hcat.md",
+    "bytes": 16662,
+    "sha256": "1f2a6758dc56f3a60fd9c1f4c1075d68a506dcbf63ad58fa8342fe404f80843b"
+  },
+  {
+    "from": "research/investment/insurances-and-medtech.md",
+    "to": "research/investment-insurances-and-medtech/evidence/insurances-and-medtech.md",
+    "bytes": 25798,
+    "sha256": "fbd09a6974bab2f6f64043ec3c4376ee2ac07952eaed5a64e79e9268b6fed1a4"
+  },
+  {
+    "from": "research/investment/phreesia.md",
+    "to": "research/investment-phreesia/evidence/phreesia.md",
+    "bytes": 14685,
+    "sha256": "238e108d27c823b4caf8dfaf451626c11c553ae29badf629053cd633290a481f"
+  },
+  {
+    "from": "research/investment/tempus.md",
+    "to": "research/investment-tempus/evidence/tempus.md",
+    "bytes": 16110,
+    "sha256": "4ae26c6a3b99187da46fab2e3558570bd5316b25eb8616a80ede677bd9214dda"
+  },
+  {
+    "from": "research/investment/tmdx.md",
+    "to": "research/investment-tmdx/evidence/tmdx.md",
+    "bytes": 31241,
+    "sha256": "682dd4b3ceace58b4d5b43806df7064f823672881bea1c23be9624c2d73bcf57"
+  },
+  {
+    "from": "research/investment/trupanion.md",
+    "to": "research/investment-trupanion/evidence/trupanion.md",
+    "bytes": 14651,
+    "sha256": "9b3bfcdb4230a7be4f034102f7fb7c87b6001802693e666a9931e4332533a363"
+  },
+  {
+    "from": "research/investment/ui-path.md",
+    "to": "research/investment-ui-path/evidence/ui-path.md",
+    "bytes": 19822,
+    "sha256": "811bebebe8d341271a846a58731623608ec13887b174c77b9feaca0f78e39f21"
+  },
+  {
+    "from": "research/investment/unity.md",
+    "to": "research/investment-unity/evidence/unity.md",
+    "bytes": 20316,
+    "sha256": "cc262fca2a4f509e9b20fb1baaee5d8b37fc62dd7cf3d5be54e902a3972f2c99"
+  }
+]

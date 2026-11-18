@@ -1,6 +1,8 @@
 # Knowledge
 
-`knowledge/` is the canonical maintained layer. It is for dense, durable pages that can be reused for writing, prompting, context, decisions, and future synthesis.
+`knowledge/` holds unique generalized knowledge, perspectives and synthesis.
+Copied source summaries live in `lib/learning-notes`; operations, facts,
+decisions and research use their appropriate maintained owners.
 
 ## Rules
 - Use `knowledge/INDEX.md` first.
@@ -8,7 +10,9 @@
 - Update existing pages before creating duplicates.
 - Manual knowledge from Alvaro must include `[Source: Alvaro’s Brain]`.
 - External claims need URL-based sources.
-- Unread URLs, PDFs, images, and videos stay in `raw/UNPROCESSED.md` until parsed.
+- Unread source pointers remain cataloged in `SOURCES.md` until readable evidence
+  is inspected. Raw originals belong in the authorized private personal Drive;
+  preserve citations even when the original artifact is currently missing.
 
 ## Future Knowledge
 - Winning the infinite game
